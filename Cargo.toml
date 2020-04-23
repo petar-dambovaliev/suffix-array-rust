@@ -3,5 +3,10 @@ name = "suffix-array"
 version = "0.1.0"
 authors = ["petar-dambovaliev <petar.atanasov.1987@gmail.com>"]
 edition = "2018"
+description = "A simple library that can be used to perform suffix array operations"
+keywords = ["suffix", "array", "strings", "search"]
+license-file = "LICENSE.md"
+repository = "https://github.com/petar-dambovaliev/suffix-array-rust"
+readme = "README.md"
 
 [dependencies]
